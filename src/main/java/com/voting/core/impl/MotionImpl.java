@@ -16,7 +16,7 @@ import com.voting.exception.MotionCanNotBeClosedException;
 import com.voting.exception.MotionInTiedStateException;
 import com.voting.util.ApplicationConstants;
 
-/**
+/** 1st Change
  * @author anjandash@gmail.com
  *
  */
