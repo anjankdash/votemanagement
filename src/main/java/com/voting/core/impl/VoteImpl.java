@@ -5,7 +5,7 @@ import java.util.Date;
 import com.voting.core.Vote;
 import com.voting.core.enums.VoteStateEnum;
 
-/**  2nd change
+/**  3rd change
  * @author anjandash@gmail.com
  *
  */
